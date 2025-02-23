@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 </p>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroG1016&layout=compact)
-<a href="https://app.daily.dev/alvaro70"><img src="https://api.daily.dev/devcards/v2/XapXKN98DwW0GtQ2DV7sh.png?type=default&r=d4q" width="356" alt="Alvaro's Dev Card"/></a>
+<a href="https://app.daily.dev/alvaro70"><img src="https://api.daily.dev/devcards/v2/XapXKN98DwW0GtQ2DV7sh.png?type=wide&r=d4q" width="652" alt="Alvaro's Dev Card"/></a>
