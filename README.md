@@ -1,3 +1,63 @@
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=2000&pause=500&color=9A6AFF&width=435&lines=Hello+There;My+Name+Is+Alvaro+Gomez" alt="Typing SVG" /></h1>
+<br>
+<p align="left">
+  Angular, React, Flutter, Nextjs, Kotlin... no technology is a barrier for me😌
+</p>
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>
+
+###  About Me
+
+<br>
+
+```ts
+const Alvaro = {
+  role: "FullStack Developer",
+  languages: ["TypeScript", "JavaScript", "C#", "Java"],
+  frameworks: ["Angular", "React", "Next.js", "Flutter", ".NET"],
+  used_tools: ["VSCode", "Cursor", "Figma", "Android Studio"],
+};
+
+```
+<br>
+
+### 💪 My Skill Set
+<br>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="48px" height="48px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48px" height="48px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="48px" height="48px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48px" height="48px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48px" height="48px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48px" height="48px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48px" height="48px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="48px" height="48px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48px" height="48px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48px" height="48px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="48px" height="48px" />
+</p>
+<br>
+
+### 📊 Some Cool Stats
+<br>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielC-Web&layout=compact&theme=midnight-purple&hide=html,css" alt="Top Langs" /> <img src="https://github-readme-stats.vercel.app/api?username=GabrielC-Web&show_icons=true&theme=midnight-purple&hide_title=true" alt="Gabriel GitHub stats" /> </p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>
+<p align="left">  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=CA3500&width=435&lines=I+Will+Craft+Your+Website;Let's+Make+Real+Your+Ideas;Let's+Connect!" alt="Typing SVG" /> </p>
+<br>
+
+🌐 [doreanvil.com](https://doreanvil.com/)
+
+📫 gabrieljose.cz21@gmail.com
+
+💼 [LinkedIn](https://www.linkedin.com/in/gabriel-carre%C3%B1o-153293218/)
+<br>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <!--
 **AlvaroG1016/AlvaroG1016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
