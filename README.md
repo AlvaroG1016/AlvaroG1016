@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <em>Angular, React, Flutter, Next.js, Kotlin... no technology is a barrier for me 😌</em>
+  <em>Angular, React, .NET, Next.js... no technology is a barrier for me 😌</em>
 </p>
 
 ---
