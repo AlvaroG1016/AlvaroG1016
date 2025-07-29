@@ -41,10 +41,10 @@ const Alvaro = {
 <br>
 
 ### 📊 Some Cool Stats
-<br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroG1016&layout=compact)
- </p>
 
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroG1016&layout=compact)
+<a href="https://app.daily.dev/alvaro70"><img src="https://api.daily.dev/devcards/v2/XapXKN98DwW0GtQ2DV7sh.png?type=wide&r=d4q" width="652" alt="Alvaro's Dev Card"/></a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 <p align="left">  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=CA3500&width=435&lines=I+Will+Craft+Your+Website;Let's+Make+Real+Your+Ideas;Let's+Connect!" alt="Typing SVG" /> </p>
